@@ -7,8 +7,8 @@
 # Ignore Gradle GUI config
 gradle-app.setting
 
-# Ignore gradle-wrapper jar
-gradle/wrapper/gradle-wrapper.jar
+# I guess nowadays you do want to push the gradle-wrapper jar?  Seems weird to me but ok
+!gradle/wrapper/gradle-wrapper.jar
 
 # Cache of project
 .gradletasknamecache
